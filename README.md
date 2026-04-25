@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oi Me chamo Diego Dallagnol, tenho 20 anos e sou natural de Caçador, SC. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.<br>Além disso, estudo Unreal Engine 5 VFX e também um pouco de modelagem 3D com Autodesk Maya.</p>
+<p align="left">Oi Me chamo Diego Dallagnol, tenho 20 anos e sou natural de Caçador, SC. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.<br>Além disso, Estou aprendendo Unreal Engine 5 VFX e também um pouco de modelagem 3D com Autodesk Maya.</p>
 
 ###
 
